@@ -1,0 +1,24 @@
+{
+  "name": "miprimerapaginaweb",
+  "version": "1.0.0",
+  "description": "PROYECTO: MISSION START: AUDITORÍA DE RENDIMIENTO Y ESTANDARIZACIÓN DEL WORKSPACE EN \"NEXTGEN WEB SOLUTIONS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraRog/MiPrimeraPaginaWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LauraRog/MiPrimeraPaginaWeb/issues"
+  },
+  "homepage": "https://github.com/LauraRog/MiPrimeraPaginaWeb#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
